@@ -25,12 +25,12 @@ https://github.com/Marquez-Brown/Refactoring-Horiseon
 Updated READ.ME
 
 <!-- ![horiseonsiteimage](assets/images/horiseon.png) -->
-<img src= "assets/images/horiseon.png">
+<!-- <img src= ""> -->
 ## If you would like to contribute
 
 To help with refactoring the code, please ask for a clone of the repo, make the changes along with comments and for overview and permission to push.
 
-![imageofrepo](assets/images/horiseonrepo.png)
+![imageofrepo](assets/images/horiseon.png)
 
 ## License
 
