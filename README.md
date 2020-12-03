@@ -22,9 +22,11 @@ https://github.com/Marquez-Brown/Refactoring-Horiseon
 
 
 ##Recent changes
+12-2-2020 
+ Added comments to break down the sections of the website.  Replaced alot of div tags with semantic html tags instead within index.html.  Consolidated some of the .classes in style.css.
 
-Worked on getting rid of code with duplicates.  Added comments to break down the sections of the website.  Replaced alot of div tags with semantic html tags instead.  
-
+12-3-2020
+Updated READ.ME
 
 ![horiseon](assets/images/horiseon.png)
 
