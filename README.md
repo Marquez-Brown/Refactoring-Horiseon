@@ -24,7 +24,7 @@ https://github.com/Marquez-Brown/Refactoring-Horiseon
 12-3-2020
 Updated READ.ME
 
-![horiseonsiteimage](./assets/images/horiseon.png)
+![horiseonsiteimage](images/horiseon.png)
 
 ## If you would like to contribute
 
