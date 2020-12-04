@@ -32,9 +32,10 @@ To help with refactoring the code, please ask for a clone of the repo, make the 
 
 ![imageofrepo](./assets/images/horiseonrepo.png)
 
-## License
 
-MIT License
+
+![license](https://img.shields.io/github/license/Marquez-Brown/Refactoring-Horiseon?style=plastic)
+
 
 Copyright (c) [2020] [Horiseon inc.]
 
