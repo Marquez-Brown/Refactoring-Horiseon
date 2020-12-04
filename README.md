@@ -32,8 +32,7 @@ To help with refactoring the code, please ask for a clone of the repo, make the 
 
 ![imageofrepo](./assets/images/horiseonrepo.png)
 
-![license](https://img.shields.io/github/license/Marquez-Brown/Refactoring-Horiseon?style=plastic)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 MIT License
 Copyright (c) [2020] [(Horiseon inc.) Georgia Tech Bootcamp Project]
 
